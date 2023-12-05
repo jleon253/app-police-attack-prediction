@@ -1,0 +1,8 @@
+mat-stepper {
+  height: calc(100% - 51px);
+  overflow: auto;
+}
+
+::ng-deep .mat-horizontal-stepper-content {
+  height: 100vh;
+}
